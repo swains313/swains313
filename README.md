@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saumyaranjan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **nexus tech innovations pvt ltd**
+- 🔭 I’m currently working on **InspironLabs Software Systems Private Limited**
 
-- 🌱 I’m currently learning **Angular, Flutter**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Java, React**
+- 💬 Ask me about **Nodejs,Expressjs, Reactjs**
 
 - 📫 How to reach me **swains313@gmail.com**
 
